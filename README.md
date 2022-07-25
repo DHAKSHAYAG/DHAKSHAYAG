@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DHAKSHAYAG
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning BIT (III Year ECE)
+- 🌱 I’m currently learning in BIT (III Year ECE)
 - 📫 How to reach me dhakshaya.ec20@bitsathy.ac.in
 
 <!---
